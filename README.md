@@ -1,22 +1,11 @@
-[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
+[![Logo Image](https://plexhq-hosting.com/templates/lagom/assets/img/logo/logo_big.gif](https://plexhq-hosting.com)
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pterodactyl/panel/tests?label=Tests&style=for-the-badge)
-![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
-![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/panel/latest/total?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/pterodactyl/panel?style=for-the-badge)
-
-# Pterodactyl Panel
-Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security 
-in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive
-UI to end users.
-
-Stop settling for less. Make game servers a first class citizen on your platform.
+# PlexHQ Panel
 
 ![Image](https://cdn.pterodactyl.io/site-assets/pterodactyl_v1_demo.gif)
 
 ## Sponsors
 I would like to extend my sincere thanks to the following sponsors for helping fund Pterodactyl's developement.
-[Interested in becoming a sponsor?](https://github.com/sponsors/DaneEveritt)
 
 | Company | About |
 | ------- | ----- |
