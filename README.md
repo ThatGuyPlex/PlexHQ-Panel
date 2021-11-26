@@ -1,4 +1,4 @@
-[![Logo Image](https://plexhq-hosting.com/templates/lagom/assets/img/logo/logo_big.gif](https://plexhq-hosting.com)
+[![Logo Image](https://plexhq-hosting.com/templates/lagom/assets/img/logo/logo_big.gif]
 
 # PlexHQ Panel
 
